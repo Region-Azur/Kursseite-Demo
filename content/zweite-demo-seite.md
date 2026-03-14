@@ -1,7 +1,8 @@
 ---
 title: Zweite Demo Seite
-sidebar: false
-sidebar_icon: ""
+sidebar: true
+sidebar_title: Zweite Seite
+sidebar_icon: fa-solid fa-circle-info
 toc: true
 ---
 ## Sub Titel
