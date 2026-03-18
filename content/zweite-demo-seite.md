@@ -15,7 +15,9 @@ toc: true
 
 Tschüss
 
-[Zurück](/Kursseite-Demo/index/)
+[Home](/Kursseite-Demo/index/)
+
+[Zweite Seite](/Kursseite-Demo/zweite-demo-seite/)
 
 ![Nachtfoto](/Kursseite-Demo/static/uploads/dsc_0215a.jpg)
 
